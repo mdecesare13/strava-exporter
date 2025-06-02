@@ -15,6 +15,3 @@ build/
 venv/
 env/
 .env/
-
-# CSV output
-strava_activities.csv 
